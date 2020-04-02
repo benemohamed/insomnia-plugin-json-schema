@@ -1,8 +1,19 @@
 {
   "name": "insomnia-plugin-json-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
   "license": "MIT",
+  "author": "Mohamed Ben rebia <mohamed@ipfinder.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benemohamed/insomnia-plugin-json-schema.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "json",
+    "schema"
+  ],
   "insomnia": {
     "name": "json-schema",
     "description": "generated json schema from response"
