@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-json-schema",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "insomnia": {
+    "name": "json-schema",
+    "description": "generated json schema from response"
+  },
+  "dependencies": {
+    "to-json-schema": "^0.2.5"
+  },
+  "devDependencies": {}
+}
